@@ -1,4 +1,5 @@
-### Hi there 👋
+### How goes it!
+Enjoy looking through my various projects. It is a mixture of assignments and personal projects, so if you see any issues with the code you can send me an email.
 
 <!--
 **JBlisko/JBlisko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
