@@ -1,4 +1,4 @@
-### How goes it!
+### How goes it:
 Enjoy looking through my various projects. It is a mixture of assignments from courses I have taken and personal projects.<!--, so if you see any issues with the code you can send me an email.--> My main interests are now in quantifying physical complexity, exploring Landauer's principle, cellular automata, and anything that relates to the propogation of information in the universe.
 
 <!--
